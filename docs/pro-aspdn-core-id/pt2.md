@@ -1,1 +1,1 @@
-# 第二部分了解 ASP.NET 核心认同
+# 第二部分：了解 ASP.NET 核心 Identity
