@@ -1,1 +1,1 @@
-# 第一部分：ASP.NET 核心简介
+# 第一部分：ASP.NET Core 简介

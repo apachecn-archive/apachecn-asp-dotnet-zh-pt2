@@ -1,1 +1,1 @@
-# 第二部分：ASP.NET 核心平台
+# 第二部分：ASP.NET Core 平台
