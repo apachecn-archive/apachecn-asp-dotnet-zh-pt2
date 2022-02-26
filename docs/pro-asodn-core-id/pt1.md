@@ -1,1 +1,1 @@
-# 部分使用 ASP.NET 核心身份
+# 部分使用 ASP.NET 核心Identity
