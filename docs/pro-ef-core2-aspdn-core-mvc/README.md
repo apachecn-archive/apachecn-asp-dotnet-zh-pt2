@@ -1,6 +1,6 @@
-# 将 Asp.NET 微服务迁移到 Asp.NET Core
+# 实体框架核心 2 高级教程
 
-> 原文：[Migrating ASP.NET Microservices to ASP.NET Core](https://zh.book4you.org/book/5238585/2eda94)
+> 原文：[Pro Entity Framework Core 2 for ASP.NET Core MVC](https://zh.book4you.org/book/3504111/dc6083)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 

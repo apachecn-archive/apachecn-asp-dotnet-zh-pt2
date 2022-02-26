@@ -1,6 +1,6 @@
-# 将 Asp.NET 微服务迁移到 Asp.NET Core
+# .NET6 微服务高级教程
 
-> 原文：[Migrating ASP.NET Microservices to ASP.NET Core](https://zh.book4you.org/book/5238585/2eda94)
+> 原文：[Pro Microservices in .NET 6](https://zh.book4you.org/book/18629398/bfda6f)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
