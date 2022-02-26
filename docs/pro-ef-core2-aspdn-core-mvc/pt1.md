@@ -1,5 +1,4 @@
-# 第一部分
-介绍实体框架核心 2
+# 第一部分：实体框架核心 2 简介
 
 Introducing Entity Framework Core 2
 

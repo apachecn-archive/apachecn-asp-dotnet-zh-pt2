@@ -1,5 +1,4 @@
-# 第三部分
-高级实体框架核心 2
+# 第三部分：实体框架核心 2 高级教程
 
 Advanced Entity Framework Core 2
 

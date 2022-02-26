@@ -1,5 +1,4 @@
-# 第二部分
-实体框架核心 2 详细
+# 第二部分：实体框架核心 2 细节
 
 Entity Framework Core 2 in Detail
 
